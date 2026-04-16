@@ -178,6 +178,8 @@ Method	Endpoint	Description
 GET	/api/invoices	Get invoices
 POST	/api/invoices	Create invoice
 PUT	/api/invoices/:id/pay	Process payment
+
+
 📸 Screenshots
 Homepage
 https://via.placeholder.com/800x400?text=Homepage+Screenshot
